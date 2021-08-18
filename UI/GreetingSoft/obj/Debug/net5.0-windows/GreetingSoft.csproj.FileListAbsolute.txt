@@ -1,0 +1,14 @@
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.csprojAssemblyReference.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.fAdmin.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.fIntro.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.fLogin.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.fQuestion1 - Copy.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.fQuestion1.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.fQuestion2.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.Properties.Resources.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.fIntro.zh-Hans-MO.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.csproj.GenerateResource.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\GreetingSoft.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\net5.0-windows\zh-Hans-MO\GreetingSoft.resources.dll

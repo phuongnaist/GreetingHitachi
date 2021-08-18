@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yCHj1IAiXnC0IM8WFipSvfYKchKoBwfYBVUlA0c2azdx6UXCaE0vapTVzSq69OJX9eDXnNbXp2Ag/ClltDcDw==",
+  "success": false,
+  "projectFilePath": "G:\\.shortcut-targets-by-id\\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\\PBL\\Software\\UI\\GreetingSoft\\GreetingSoft.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.Data.SqlClient. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

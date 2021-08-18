@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingHitachi", "GreetingHitachi.csproj", "{A53F0955-AD52-4555-BC9E-0DE6545F6CFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{248AD97F-FF6F-44A5-A973-0FE9B6ED64E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53F0955-AD52-4555-BC9E-0DE6545F6CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53F0955-AD52-4555-BC9E-0DE6545F6CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53F0955-AD52-4555-BC9E-0DE6545F6CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53F0955-AD52-4555-BC9E-0DE6545F6CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {759EE58B-120C-4223-9317-72443976315D}
+	EndGlobalSection
+EndGlobal

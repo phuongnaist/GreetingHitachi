@@ -1,0 +1,24 @@
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\bin\Debug\netcoreapp3.1\GreetingSoft.exe
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\bin\Debug\netcoreapp3.1\GreetingSoft.deps.json
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\bin\Debug\netcoreapp3.1\GreetingSoft.runtimeconfig.json
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\bin\Debug\netcoreapp3.1\GreetingSoft.runtimeconfig.dev.json
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\bin\Debug\netcoreapp3.1\GreetingSoft.dll
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\bin\Debug\netcoreapp3.1\GreetingSoft.pdb
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.csprojAssemblyReference.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.fLogin.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.csproj.GenerateResource.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.dll
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.pdb
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.genruntimeconfig.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.fIntro.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.fQuestion1 - Copy.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.fQuestion1.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.fQuestion2.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.Properties.Resources.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\bin\Debug\netcoreapp3.1\zh-Hans-MO\GreetingSoft.resources.dll
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.fIntro.zh-Hans-MO.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\zh-Hans-MO\GreetingSoft.resources.dll
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingSoft\obj\Debug\netcoreapp3.1\GreetingSoft.fAdmin.resources

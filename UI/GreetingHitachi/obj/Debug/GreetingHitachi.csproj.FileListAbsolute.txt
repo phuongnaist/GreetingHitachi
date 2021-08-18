@@ -1,0 +1,34 @@
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.csprojAssemblyReference.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.Properties.Resources.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.csproj.GenerateResource.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\bin\Debug\GreetingHitachi.exe.config
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\bin\Debug\GreetingHitachi.exe
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\bin\Debug\GreetingHitachi.pdb
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.exe
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.pdb
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fAdmin.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fIntro.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fQuestion1.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fQuestion2.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fLogin.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\bin\Debug\GreetingHitachi.exe.config
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.exe
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.pdb
+G:\My Drive\PBL\Software\UI\GreetingHitachi\bin\Debug\GreetingHitachi.exe
+G:\My Drive\PBL\Software\UI\GreetingHitachi\bin\Debug\GreetingHitachi.pdb
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.csprojResolveAssemblyReference.cache
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fAdmin.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fIntro.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fLogin.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fQuestion1.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingSoft.fQuestion2.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.Properties.Resources.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.csproj.GenerateResource.Cache
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.fCompanyQuestion.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.fCompanyQuestion2.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.fCompanyQuestion.resources
+G:\My Drive\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.fCompanyQuestion2.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.fNewAttendee.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.fVoting.resources
+G:\.shortcut-targets-by-id\1bBGGyUtJMVISKw2Sr2Dcs7nq3n_hNQvY\PBL\Software\UI\GreetingHitachi\obj\Debug\GreetingHitachi.fFinal.resources
